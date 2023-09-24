@@ -1,6 +1,6 @@
-# Project Title
+# ChatBot
 
-A nice project with a nice description
+A Slack Chatbot using openai and nodejs.
 
 ---
 ## Requirements
